@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+*.user
+
+# Build folders
+x64/
+Debug/
+Release/
+
+# C/C++ build files
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.log
+*.recipe
+*.ipch
+*.iobj
+*.ipdb
+
+# SFML DLLs copied for local execution
+*.dll
